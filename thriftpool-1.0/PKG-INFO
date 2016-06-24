@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: thriftpool
+Version: 1.0
+Summary: python thrift library
+Home-page: liufan
+Author: liufan
+Author-email: lfmcqs@126.com
+License: http://www.apache.org/licenses/LICENSE-2.0.html
+Description: python thrift library with connection pool
+Platform: linux
+Platform: windows
