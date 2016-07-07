@@ -100,7 +100,7 @@ void log_print(const char *fmt, ...)
 	vfprintf(g_log_fp, fmt, argptr);
 	va_end(argptr);
 	fprintf(g_log_fp, "\n");
-    fflush(g_log_fp);
+        fflush(g_log_fp);
 }
 
 void log_close()
